@@ -14,15 +14,6 @@
                 "NativeAdKey": ""
             },
             {
-				"MonetizationId": 2,
-				"MonetizerName": "AdMob",
-				"AdAppKey": "ca-app-pub-1993362206897244~1071192210",
-				"BannerAdKey": "ca-app-pub-1993362206897244/4818865534",
-				"InterstitialAdKey": "ca-app-pub-1993362206897244/1043272059",
-				"RewardedAdKey": "ca-app-pub-1993362206897244/9660128677",
-				"NativeAdKey": ""
-			},
-            {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
                 "AdAppKey": "1595228c5",
